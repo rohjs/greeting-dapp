@@ -1,5 +1,7 @@
 # Greeting dApp
 
+![image](https://user-images.githubusercontent.com/19285811/153019305-625f0fe9-bb29-4684-b364-4a4ab1a1edb8.png)
+
 This repository follows a tutorial from [here](https://betterprogramming.pub/build-your-first-dapp-with-web3-js-9a7306d16a61).
 
 ## Requisites
